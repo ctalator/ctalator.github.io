@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctalator.github.io/sitemap.ctalator.gz
+Sitemap: https://ctalator.github.io/app/sitemap.ctalator.gz
+Sitemap: https://ctalator.github.io/assets/sitemap.ctalator.gz
+Sitemap: https://ctalator.github.io/css/sitemap.ctalator.gz
+Sitemap: https://ctalator.github.io/data/sitemap.ctalator.gz
+Sitemap: https://ctalator.github.io/includes/sitemap.ctalator.gz
+Sitemap: https://ctalator.github.io/item/sitemap.ctalator.gz
+Sitemap: https://ctalator.github.io/src/sitemap.ctalator.gz
